@@ -61,4 +61,4 @@ Do the following steps.
     -->font-awesome
     -->js
   ```
-  ![Alt text](https://github.com/hamedhossani/Codeigniter-panel-Templates-admin---user/blob/master/screen-shot.PNG?raw=true "Optional Title")
+  ![ScreenShot](https://cloud.githubusercontent.com/assets/22195058/20652419/099ba064-b50e-11e6-9f4c-cd17c806916a.PNG)
