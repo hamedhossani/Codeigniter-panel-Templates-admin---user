@@ -1,4 +1,4 @@
-# Codeigniter-panel-Templates-admin---user
+# Codeigniter-Panel-Templates-admin-user
 *Template Admin And User Panel* mounted on *Codeigniter*
 
 
@@ -13,9 +13,7 @@ Do the following steps.
 [source]
 ----
 /*
-|--------------------------------------------------------------------------
 | Autoload Custom Controllers
-|--------------------------------------------------------------------------
 |
 */
 function __autoload($class) {
