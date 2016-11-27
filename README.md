@@ -7,10 +7,10 @@ How it Work.
 copy files into root of Codeigniter folder.
 
 Do the following steps.
-1. open file config.php in editor and change it.(application/config/config.php)
++1. open file config.php in editor and change it.(application/config/config.php)
   $config['base_url'] = 'http://localhost:8085/MyFolderInsteadHostDirectory/';
-2. Go to the end of the file and add the following.
-[source]
++2. Go to the end of the file and add the following.
+
 ----
 /*
 | Autoload Custom Controllers
